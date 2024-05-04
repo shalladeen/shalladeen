@@ -1,5 +1,7 @@
 # Hi there, I'm Shawna! 
 
-I'm a first-year software engineering student with a passion for creating apps, working with databases, and tinkering with arduino. I thrive on learning and exploring the vast world of software development, constantly seeking new challenges and opportunities to expand my skills.
+👋 I’m a first-year Software Engineering student passionate about building dynamic user interfaces and rich web experiences using React. I love the creativity involved in frontend development and am equally fascinated by the power of backend technologies, aiming to become a proficient full-stack developer. 🚀
 
-🌱 Outside of coding, I'm either gaming, reading, or at the gym
+🌐 While I enjoy crafting responsive React projects and delving into databases, I'm also keen on exploring new technologies and pushing the boundaries of what I can create. Whether it's tinkering with Arduino or integrating APIs, I'm all about adding functionality and flair to my applications.
+
+🎮 When I'm not coding, you can find me gaming, reading, or at the gym. I'm always on the lookout for new challenges and ways to enhance my skills.
