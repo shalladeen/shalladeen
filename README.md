@@ -5,3 +5,5 @@ I’m a Software Engineering student focused on frontend development, especially
 Lately, I’ve been working on strengthening my backend skills and learning how to design full-stack systems properly. I’m interested in building applications that are both well-structured and practical.
 
 Outside of coding, I’m usually at the gym, gaming, or reading. I like working on projects that push me to learn something new.
+
+[https://shawnahalladeen.netlify.app/#hero](Portfolio)
