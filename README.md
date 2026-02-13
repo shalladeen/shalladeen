@@ -1,7 +1,7 @@
 # Hi there, I'm Shawna! 
 
-👋 I’m a second-year Software Engineering student passionate about building dynamic user interfaces and rich web experiences using React. I love the creativity involved in frontend development and am equally fascinated by the power of backend technologies, aiming to become a proficient full-stack developer. 🚀
+I’m a Software Engineering student focused on frontend development, especially React. I enjoy building clean, responsive interfaces and understanding how everything connects behind the scenes.
 
-🌐 While I enjoy crafting responsive React projects and delving into databases, I'm also keen on exploring new technologies and pushing the boundaries of what I can create. Whether it's tinkering with Arduino or integrating APIs, I'm all about adding functionality and flair to my applications.
+Lately, I’ve been working on strengthening my backend skills and learning how to design full-stack systems properly. I’m interested in building applications that are both well-structured and practical.
 
-🎮 When I'm not coding, you can find me gaming, reading, or at the gym. I'm always on the lookout for new challenges and ways to enhance my skills.
+Outside of coding, I’m usually at the gym, gaming, or reading. I like working on projects that push me to learn something new.
