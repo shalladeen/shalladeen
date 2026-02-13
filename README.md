@@ -6,4 +6,4 @@ Lately, I’ve been working on strengthening my backend skills and learning how 
 
 Outside of coding, I’m usually at the gym, gaming, or reading. I like working on projects that push me to learn something new.
 
-[# My Portfolio](https://shawnahalladeen.netlify.app/)
+[My Portfolio](https://shawnahalladeen.netlify.app/)
